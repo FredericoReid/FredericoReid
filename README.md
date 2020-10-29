@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi = "Hello World!' 👋
+    name = 'I'm Frederico'
+    
+    print (hi, name, "Welcome!!")
 
 - 💻 I’m currently learning Computing Science and Full Stack Development!
 - 🤔 I’m looking for help to learn something everyday🥇
