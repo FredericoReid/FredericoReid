@@ -6,6 +6,15 @@
 - 💬 Ask me about anything! I love to talk🧡
 - 📫 How to reach me: [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/frederico-reid-649601180/)
 
+
+<table style="width:100%">  
+<tr>  
+<td>- 📫 How to reach me: </td>  
+<th>[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/frederico-reid-649601180/)</th>  
+</table>
+
+
+
 Everything i've learned so far:
 <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/> 
 
