@@ -2,7 +2,7 @@
 
 
 - 💻 I’m currently learning Computing Science and Full Stack Development!
-- IBM intern!  <img src="https://img.icons8.com/color/48/000000/ibm.png"/>
+- IBM QA Engineer  <img src="https://img.icons8.com/color/48/000000/ibm.png"/>
 - 🤔 I’m looking for help to learn something everyday🥇
 - 💬 Ask me about anything! I love to talk🧡
 - 📫 How to reach me: [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/fredericoreid/)
